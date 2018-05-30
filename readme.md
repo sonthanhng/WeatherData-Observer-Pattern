@@ -4,6 +4,7 @@ We need to create an application that initially provides three display elements:
 - Current conditions
 - Weather statics
 - Simple forecast
+
 All updated in real time as the Weather Data object acquires the most recent measurements. Further, this is an expandable Weather station. They want to release an API so that other developers can write their own weather displays and plug them right.
 
 ## Solution
